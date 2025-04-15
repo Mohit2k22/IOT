@@ -1,0 +1,7 @@
+𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬:
+1) 37GB Gear Motor 500 RPM x4.
+2) BTS7960 Motor Driver x2.
+3) ESP32 board x1.
+4) Buck Converter x1.
+5) Metal Chassis x1.
+6) Wheels, L-Mount, Hex Coupler x 1set.
